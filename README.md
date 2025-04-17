@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranciscoCTI
-- 👀 I’m interested in Revit Application Programming, WPF, XAML, C#, OOP, Web Development, etc
+- 👀 I’m interested in AEC domain development, Revit Application Programming, .NET, WPF, XAML, C#, OOP, MERN, etc
 - 🌱 I’m currently developing software for private AEC companies, and selling our apps with my company CTI
 - 📫 How to reach me ... franciscofcch@gmail.com
 
